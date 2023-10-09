@@ -1,2 +1,3 @@
-# tensorflow_projects
-🧠 A collection of Computer Vision, NLP &amp; Time-Series deep learning projects implemented in TensorFlow.
+# Tensorflow Projects
+
+Some demonstrations of TensorFlow neural networks including transfer-learned and from-scratch CNN's and RCNN's for CV, NLP & TS.
